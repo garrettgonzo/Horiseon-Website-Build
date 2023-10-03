@@ -2,30 +2,20 @@
 
 AS A marketing agency
 
-I WANT a codebase that follows accessibility standards
+I WANT to create an organized layout of code accessible to the public
 
-SO THAT our own site is optimized for search engines
+SO THAT the website is fully functioning and working properly
 
 ## Acceptance Criteria
 
 GIVEN a webpage meets accessibility standards
 
-WHEN I view the source code
+WHEN I fix all the div file names
 
-THEN I find semantic HTML elements
+WHEN I create a good user story
 
-WHEN I view the structure of the HTML elements
+WHEN I create a good acceptance criteria
 
-THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I condense the style.css page 
 
-WHEN I view the icon and image elements
-
-THEN I find accessible alt attributes
-
-WHEN I view the heading attributes
-
-THEN they fall in sequential order
-
-WHEN I view the title element
-
-THEN I find a concise, descriptive title
+WHEN I the website is fully functioning 
